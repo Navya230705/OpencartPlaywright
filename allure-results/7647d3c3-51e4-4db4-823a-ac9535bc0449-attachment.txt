@@ -1,0 +1,4 @@
+✅ Registration Completed
+✅ Logout Completed
+✅ Login Completed
+🛒 Product Added to cart

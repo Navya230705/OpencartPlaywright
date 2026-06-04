@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6015","verify login credint @master @sanity @regression","chromium","2026-06-02","passed","2026-06-02","","Login.spec.ts","",""
+"","5350","Data driven login:Invalid login @master @sanity @regression","chromium","2026-06-02","passed","2026-06-02","","LoginDataDriven.spec.ts","",""
+"","6880","Data driven login:Invalid login","chromium","2026-06-02","passed","2026-06-02","","LoginDataDriven.spec.ts","",""
+"","5840","Data driven login:Valid login @master @sanity @regression","chromium","2026-06-02","passed","2026-06-02","","LoginDataDriven.spec.ts","",""
+"","10415","verify registration success @master @sanity @regression","chromium","2026-06-02","passed","2026-06-02","","AccountRegistration.spec.ts","",""
+"","8220","Data driven login:Valid login","chromium","2026-06-02","passed","2026-06-02","","LoginDataDriven.spec.ts","",""
+"","28850","verify login credint","chromium","2026-06-01","failed","2026-06-01","","Login.spec.ts","",""
