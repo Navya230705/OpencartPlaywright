@@ -15,7 +15,7 @@ export class Loginpage{
         this.email=page.locator("#input-email")
         this.password=page.locator("#input-password")
         this.loginbtn=page.locator("input[value='Login']")
-        this.errormsg=page.locator('.alert.alert-danger.alert-dismissible')
+        this.errormsg=page.getByText('Warning: No match for E-Mail Address and/or Password.', { exact: true })
     
     }
     //Action Methods
