@@ -1,0 +1,7 @@
+✅ Registration Completed
+✅ Logout Completed
+✅ Login Completed
+🛒 Product Added to cart
+🛒 Navigated to shopping cart!
+Products marked with *** are not available in the desired quantity or not in stock!
+✅ Shopping cart verification completed!
